@@ -10,3 +10,32 @@ __Sorker limon :)__
 You will like those projects!
 
 ---
+
+## Code
+
+Inline `code`
+
+Indented code
+
+    // Some comments
+    line 1 of code
+    line 2 of code
+    line 3 of code
+
+
+Block code "fences"
+
+```
+Sample text here...
+```
+
+Syntax highlighting
+
+``` py
+def print(hlw):
+  string = "HELLO"
+  return string
+ 
+print("Hello")
+
+```
